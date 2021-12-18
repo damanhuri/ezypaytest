@@ -1,0 +1,6 @@
+com\ezypay\test\domain\SubsType.class
+com\ezypay\test\EzypaytestApplication.class
+com\ezypay\test\controller\SubscriptionController.class
+com\ezypay\test\domain\SubsPayload.class
+com\ezypay\test\service\SubscriptionService.class
+com\ezypay\test\domain\Subscription.class
