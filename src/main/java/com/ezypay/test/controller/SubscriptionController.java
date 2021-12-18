@@ -21,10 +21,7 @@ import com.ezypay.test.service.SubscriptionService;
 @RestController
 @RequestMapping("/api/subscription")
 public class SubscriptionController {
-	
-//	// dummy repository
-//	private static Map<String, Subscription> subscriptionRepo = new HashMap<String, Subscription>();
-	
+		
 	@Autowired
 	private SubscriptionService subService;
 	
